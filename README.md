@@ -15,3 +15,8 @@ The repository includes the trained model, a user-friendly MATLAB GUI applicatio
 - Data Analysis: Jupyter notebooks exploring the dataset and model performance.
 
 - Complete Documentation: Includes a detailed report on methodology, insights, and conclusions.
+
+
+## Demonstration
+https://github.com/M0pperEffect/Writing-score-predictor/raw/main/Screenshot%20from%202025-08-20%2002-33-08.png?raw=true
+[default appearance](https://github.com/M0pperEffect/Writing-score-predictor/raw/main/Screenshot%20from%202025-08-20%2002-33-08.png?raw=true)
